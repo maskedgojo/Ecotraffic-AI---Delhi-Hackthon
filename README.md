@@ -56,7 +56,7 @@ We welcome feedback, suggestions, and contributions! Feel free to submit issues,
 Developed during the **Energy hackathon** By **IIT DELHI**, This Project is a collaborative effort by:  
 
 - 🧑‍💻 **Aryan Bhargava**  
-- 🧑‍💻 **Kushagara Singh**  
+- 🧑‍💻 **Kushaagara Singh**  
 - 🧑‍💻 **Jeet das**  
 - 🧑‍💻 **Aayushi**
 - 🧑‍💻 **Poushali Patra** 
