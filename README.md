@@ -1,4 +1,4 @@
-# EcoTraffic AI Delhi Smart Traffic & Pollution Management System
+# EcoTraffic AI -- Delhi Smart Traffic & Pollution Management System
 
 ## 🚀 Project Overview
 The **Delhi Smart Traffic & Pollution Management System** is an AI-powered solution aimed at addressing Delhi NCR's persistent air quality and traffic congestion challenges. This system integrates **real-time AQI monitoring, predictive pollution modeling, smart traffic control, and emergency alerts** to foster sustainable urban mobility and public health improvements.
